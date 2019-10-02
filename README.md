@@ -1,25 +1,25 @@
-#Face Recognition using Haar-Cascade Classifier, OpenCV, and Python
+Face Recognition using Haar-Cascade Classifier, OpenCV, and Python
 
  Simple Face Recognition algorithm using Python and OpenCV
 
-##Prerequisites
+Prerequisites
   Numpy
   OpenCV
 
-##Installing
+Installing
 
   Install Numpy via anaconda: conda install numpy
 
   Install OpenCV via anaconda: conda install -c menpo opencv
 
-##Outline
+Outline
 This project consist of 2 parts, which are:
 
   1.Creating datasets and Training of model (Generating selfie Training Data Using Webcam.ipynb)
   2.Face Recognition (face_recognition.py)
   
   
-##How to run ?
+How to run ?
 Make sure have executable permission.
 pip install -r requirements.txt
 Please make sure that you have folders called 'datasets' and 'trainer' in the same directory. (Optional, I have put the code so it will create if it's not exist.)
