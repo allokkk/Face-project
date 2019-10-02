@@ -16,6 +16,7 @@ Outline
 This project consist of 2 parts, which are:
 
   1.Creating datasets and Training of model (Generating selfie Training Data Using Webcam.ipynb)
+  
   2.Face Recognition (face_recognition.py)
   
   
